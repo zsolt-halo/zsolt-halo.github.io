@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: zsolt's serverless blog
+name: Zsolt's serverless blog (Azure)
 
 # Name of the author
 author: Zsolt Háló
 
 # Short bio or description (displayed in the header)
-description: My journey with the Azure ecosystem
+description: A delightful trip inside the world of serverless development and DevSecOps while implementing random stuff using Azure
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.jpeg
@@ -44,8 +44,8 @@ disqus: zsolthl
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://zsolt-halo.github.io
-enforce_ssl: https://zsolt-halo.github.io
+url: http://secops.ombori.com
+enforce_ssl: http://secops.ombori.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
